@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
@@ -77,21 +76,10 @@ Herramientas
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/visual_studio_code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/eclipseide-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white">
 </p>
 
-📊 Estadísticas de GitHub
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alejandrorevillaEng&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrorevillaEng&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrorevillaEng&layout=compact&theme=tokyonight&hide_border=true" width="50%">
-</p>
 
 📌 Proyectos destacados
 <p align="left">
@@ -100,5 +88,5 @@ Herramientas
 </p>
 
 <p align="center">
-<em>Construyendo mi camino hacia el desarrollo backend + IA, un commit a la vez 🚀</em>
+<em>Construyendo mi camino hacia el desarrollo backend + IA</em>
 </p>
