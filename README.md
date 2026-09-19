@@ -17,8 +17,6 @@
 
 🎯 Especializándome en desarrollo backend + IA aplicada (Java, Spring Boot, PostgreSQL, integración de LLMs).
 
-📱 Aprendiendo desarrollo móvil multiplataforma con Dart/Flutter.
-
 🗄️ Base sólida en bases de datos: certificaciones Oracle SQL, PL/SQL y Data Modeling.
 
 🌐 Formación en redes y sistemas: Cisco CCNA (completo) y Linux.
