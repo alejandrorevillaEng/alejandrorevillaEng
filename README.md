@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Alejandro Revilla 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+(UCAM);IA+aplicada+y+datos;Agentes+de+IA+%7C+Python+%7C+SQL;Buscando+pr%C3%A1cticas+(feb.+2027)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+(UCAM);IA+aplicada+y+datos;Agentes+de+IA+%7C+Python+%7C+SQL;Buscando+pr%C3%A1cticas+(enero+2027)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 - 🗄️ Base sólida en **bases de datos**: SQL, PL/SQL y modelado con Oracle (Oracle Database Academy).
 - 🌐 Sistemas y redes: ruta **Cisco CCNA** (3 módulos) y **NDG Linux Essentials**.
 - 📚 Ahora mismo: **Python Essentials** (Cisco) y **CS50x** (Harvard).
-- 📫 **Busco prácticas desde febrero de 2027** en IA, datos o backend, en Murcia o en remoto.
+- 📫 **Busco prácticas desde enero de 2027** en IA, datos o backend, en Murcia o en remoto.
 
 ## 📌 Proyectos
 
