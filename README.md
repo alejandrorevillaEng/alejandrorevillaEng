@@ -21,10 +21,12 @@
 
 ## 📌 Proyectos
 
-| Proyecto | Qué es | Tecnologías |
-|---|---|---|
-| [**FructoScan**](https://github.com/alejandrorevillaEng/fructoscan) · [ver en vivo](https://fructosa.pages.dev) | App web para el móvil que escanea productos del súper y te dice si te convienen con intolerancia a la fructosa; también revisa los excipientes de los medicamentos | JavaScript · PWA · OCR · tests y CI |
-| [**La aldea**](https://github.com/alejandrorevillaEng/portafolio-alejandro-prueba1) · [ver en vivo](https://alejandrorevillaeng.github.io/portafolio-alejandro-prueba1/) | Mi portafolio jugable en pixel art: cada vecino cuenta una parte de mi perfil | TypeScript · Phaser 3 · Vite · Tiled |
+<p>
+  <a href="https://github.com/alejandrorevillaEng/fructoscan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-fructoscan-oscuro.svg"><img src="assets/proyecto-fructoscan-claro.svg" width="400" alt="FructoScan: escanea productos del súper y te dice si te convienen con intolerancia a la fructosa"></picture></a>
+  <a href="https://github.com/alejandrorevillaEng/portafolio-alejandro-prueba1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-aldea-oscuro.svg"><img src="assets/proyecto-aldea-claro.svg" width="400" alt="La aldea: mi portfolio jugable en pixel art"></picture></a>
+</p>
+
+**FructoScan** · [código](https://github.com/alejandrorevillaEng/fructoscan) · [abrir la app](https://fructosa.pages.dev) &nbsp;&nbsp;·&nbsp;&nbsp; **La aldea** · [código](https://github.com/alejandrorevillaEng/portafolio-alejandro-prueba1) · [jugar](https://alejandrorevillaeng.github.io/portafolio-alejandro-prueba1/)
 
 ## 🛠️ Tecnologías
 
