@@ -26,8 +26,6 @@
   <a href="https://github.com/alejandrorevillaEng/portafolio-alejandro-prueba1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-aldea-oscuro.svg"><img src="assets/proyecto-aldea-claro.svg" width="400" alt="La aldea: mi portfolio jugable en pixel art"></picture></a>
 </p>
 
-**FructoScan** · [código](https://github.com/alejandrorevillaEng/fructoscan) · [abrir la app](https://fructosa.pages.dev) &nbsp;&nbsp;·&nbsp;&nbsp; **La aldea** · [código](https://github.com/alejandrorevillaEng/portafolio-alejandro-prueba1) · [jugar](https://alejandrorevillaeng.github.io/portafolio-alejandro-prueba1/)
-
 ## 🛠️ Tecnologías
 
 **Lenguajes**
