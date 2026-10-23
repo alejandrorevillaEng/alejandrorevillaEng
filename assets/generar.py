@@ -1,7 +1,7 @@
 """Genera las fichas de tecnologías del README (versión clara y oscura).
 
-Los logotipos son los oficiales de Simple Icons (CC0) y, para C#, de Devicon (MIT);
-no se dibujan a mano. Para añadir o quitar una tecnología, edita GRUPOS y ejecuta:
+Los logotipos son los oficiales de Simple Icons (CC0) y, para Java y C#, de Devicon (MIT).
+Lo que no es una marca (OpenMP, APIs REST) lleva un icono neutro de Phosphor (MIT). Nada se dibuja a mano. Para añadir o quitar una tecnología, edita GRUPOS y ejecuta:
 
     python assets/generar.py
 """
@@ -12,12 +12,14 @@ import urllib.request
 
 SIMPLE_ICONS = 'https://cdn.jsdelivr.net/npm/simple-icons@13.21.0'
 DEVICON = 'https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons'
+PHOSPHOR = 'https://cdn.jsdelivr.net/npm/@phosphor-icons/core@2.1.1/assets/regular'
 SALIDA = pathlib.Path(__file__).parent
 
-# (nombre visible, icono) · icono: slug de Simple Icons o "devicon:carpeta/archivo|#color"
+# (nombre visible, icono) · icono: slug de Simple Icons, "devicon:carpeta/archivo|#color" o "phosphor:nombre"
 GRUPOS = {
     'lenguajes': [('Python', 'python'), ('Java', 'devicon:java/java-plain|#E76F00'), ('C', 'c'), ('C#', 'devicon:csharp/csharp-plain|#9B4F96'),
-                  ('TypeScript', 'typescript'), ('JavaScript', 'javascript')],
+                  ('PHP', 'php'), ('TypeScript', 'typescript'), ('JavaScript', 'javascript')],
+    'backend': [('APIs REST', 'phosphor:plugs-connected'), ('CUDA', 'nvidia'), ('OpenMP', 'phosphor:cpu')],
     'datos': [('Oracle SQL', 'oracle'), ('PostgreSQL', 'postgresql'), ('MySQL', 'mysql')],
     'sistemas': [('Linux', 'linux'), ('Cisco', 'cisco'), ('Git', 'git'), ('GitHub', 'github'), ('Docker', 'docker'),
                  ('Claude', 'claude')],
@@ -59,7 +61,10 @@ COLORES = {i.get('slug') or slug(i['title']): '#' + i['hex']
 
 
 def icono(ref):
-    """Devuelve (trazados, viewBox, color de marca)."""
+    """Devuelve (trazados, viewBox, color de marca o None para usar el color del texto)."""
+    if ref.startswith('phosphor:'):
+        svg = bajar(f'{PHOSPHOR}/{ref[len("phosphor:"):]}.svg')
+        return re.findall(r' d="([^"]+)"', svg), '0 0 256 256', None
     if ref.startswith('devicon:'):
         ruta, color = ref[len('devicon:'):].split('|')
         svg = bajar(f'{DEVICON}/{ruta}.svg')
@@ -75,7 +80,7 @@ def fila(items, tema):
     partes = []
     for n, (nombre, ref) in enumerate(items):
         trazados, caja, color = icono(ref)
-        if contraste(color, t['ficha']) < 2.2:        # logos negros en oscuro o claros en claro
+        if color is None or contraste(color, t['ficha']) < 2.2:        # logos negros en oscuro o claros en claro
             color = t['tinta']
         _, _, w, _ = (float(v) for v in caja.split())
         x = 2 + n * (LADO + HUECO)

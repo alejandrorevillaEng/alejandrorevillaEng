@@ -32,7 +32,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/lenguajes-oscuro.svg">
-  <img src="assets/lenguajes-claro.svg" alt="Python, Java, C, C#, TypeScript y JavaScript">
+  <img src="assets/lenguajes-claro.svg" alt="Python, Java, C, C#, PHP, TypeScript y JavaScript">
+</picture>
+
+**Backend y programación paralela**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/backend-oscuro.svg">
+  <img src="assets/backend-claro.svg" alt="APIs REST, CUDA y OpenMP">
 </picture>
 
 **Bases de datos**
