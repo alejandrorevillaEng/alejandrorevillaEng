@@ -16,14 +16,14 @@
 - 🤖 Me estoy especializando en **IA aplicada**: agentes con modelos de lenguaje, datos y machine learning.
 - 🗄️ Base sólida en **bases de datos**: SQL, PL/SQL y modelado con Oracle (Oracle Database Academy).
 - 🌐 Sistemas y redes: ruta **Cisco CCNA** (3 módulos) y **NDG Linux Essentials**.
-- 📚 Ahora mismo: **Python Essentials** (Cisco) y **CS50x** (Harvard).
+- 📚 Ahora mismo: **Ciberseguridad y Hacking Ético** (BIG School), **CS50x** (Harvard) y **Python Essentials** (Cisco), preparando el examen PCAP.
 - 📫 **Busco prácticas desde enero de 2027** en IA, datos o backend, en Murcia o en remoto.
 
 ## 📌 Proyectos
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| **FructoScan** *(código próximamente)* | App web para el móvil que escanea productos del súper y estima su fructosa y sorbitol, con OCR en el propio móvil | JavaScript · PWA · OCR · pruebas automáticas |
+| [**FructoScan**](https://github.com/alejandrorevillaEng/fructoscan) · [ver en vivo](https://fructosa.pages.dev) | App web para el móvil que escanea productos del súper y te dice si te convienen con intolerancia a la fructosa; también revisa los excipientes de los medicamentos | JavaScript · PWA · OCR · tests y CI |
 | [**La aldea**](https://github.com/alejandrorevillaEng/portafolio-alejandro-prueba1) · [ver en vivo](https://alejandrorevillaeng.github.io/portafolio-alejandro-prueba1/) | Mi portafolio jugable en pixel art: cada vecino cuenta una parte de mi perfil | TypeScript · Phaser 3 · Vite · Tiled |
 
 ## 🛠️ Tecnologías
