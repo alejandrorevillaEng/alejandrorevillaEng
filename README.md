@@ -30,33 +30,23 @@
 
 **Lenguajes**
 
-<p align="left">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lenguajes-oscuro.svg">
+  <img src="assets/lenguajes-claro.svg" alt="Python, Java, C, C#, TypeScript y JavaScript">
+</picture>
 
 **Bases de datos**
 
-<p align="left">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/datos-oscuro.svg">
+  <img src="assets/datos-claro.svg" alt="Oracle SQL, PostgreSQL y MySQL">
+</picture>
 
-**Herramientas, sistemas e IA**
+**Sistemas, redes y herramientas**
 
-<p align="left">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sistemas-oscuro.svg">
+  <img src="assets/sistemas-claro.svg" alt="Linux, Cisco, Git, GitHub, Docker y Claude">
+</picture>
 
 <p align="center"><em>Construyendo mi camino hacia la IA aplicada 🚀</em></p>
