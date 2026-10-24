@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alejandro-revilla-blanco/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://alejandrorevillaeng.github.io/portafolio-alejandro-prueba1/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://alejandrorevillaeng.github.io/portafolio-alejandro/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="mailto:revillablancoalejandro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p>
   <a href="https://github.com/alejandrorevillaEng/fructoscan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-fructoscan-oscuro.svg"><img src="assets/proyecto-fructoscan-claro.svg" width="400" alt="FructoScan: escanea productos del súper y te dice si te convienen con intolerancia a la fructosa"></picture></a>
-  <a href="https://github.com/alejandrorevillaEng/portafolio-alejandro-prueba1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-aldea-oscuro.svg"><img src="assets/proyecto-aldea-claro.svg" width="400" alt="La aldea: mi portfolio jugable en pixel art"></picture></a>
+  <a href="https://github.com/alejandrorevillaEng/portafolio-alejandro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyecto-aldea-oscuro.svg"><img src="assets/proyecto-aldea-claro.svg" width="400" alt="La aldea: mi portfolio jugable en pixel art"></picture></a>
 </p>
 
 ## 🛠️ Tecnologías
